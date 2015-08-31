@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 ---
-Hello, world! This is the first of many future blog posts detailing my learning experiences in both CS373: Software Engineering and CS371P: Object-Oriented Programming during the Fall 2015 semester at The University of Texas at Austin. 
+Hello, world! This is the first of many future blog posts detailing my learning experiences in CS371P: Object-Oriented Programming during the Fall 2015 semester at The University of Texas at Austin. 
 Welcome, and Hook 'em Horns!
 
 <!--Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).-->
